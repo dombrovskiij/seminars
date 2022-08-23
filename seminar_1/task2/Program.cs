@@ -11,4 +11,3 @@ else
 {
     Console.WriteLine($"Второе число {num_B} больше первого числа {num_A}");
 }
-
